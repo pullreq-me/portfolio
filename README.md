@@ -1,4 +1,5 @@
 <img src="./resources/thumbnail.png" width="256px">
+
 # 中村 輝（Akira Nakamura）
 ***
 ### 株式会社ほげふがのシステムエンジニア
