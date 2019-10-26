@@ -10,33 +10,41 @@
 
 ***
 
-## Programming Languages
-`Swift` `Javascript` `Java` `PHP` `Ruby` `C` `C#` `C++` `Perl` `Python` `Kotlin` `Haskell` `Go`
-
 ## Short Bio
 ほげほげまる
 あああ
 
+## Programming languages
+`Swift` `Javascript` `Java` `PHP` `Ruby` `C` `C#` `C++` `Perl` `Python` `Kotlin` `Haskell` `Go` `R`
+
+## Frameworks / Libraries
+`React.js` `Ruby on Rails` `Flutter` `RxSwift`
+
+## Environment
+`Visual Studio Code` `Atom` `Xcode` `Android Studio` `Vim` `Emacs` `Unity` `Xamarin` `Eclipse` `TexShop`
+
+## Other Skills
+`Illustrator` `Photoshop` `After Effects` `Blender` ``
+
 ## Job Experience
-### *2017.4 - 2018.3* ブラック企業A
-> __開発アルバイト__  
-> - React.jsを用いたWebフロントエンド改修業務  
-> - Javaで書かれたAndroidアプリのKotlinへの翻訳業務  
+### *2017.4 - 2018.3* 企業A
+> __開発アルバイト__
+> - React.jsを用いたWebフロントエンド改修業務
+> - Javaで書かれたAndroidアプリのKotlinへの翻訳業務v
 
-### *2018.4 - 2019.6* ブラック企業B
-> __iOSアプリエンジニア__  
-> - [Piyo](http://undefined.com)のプロダクトマネージャー  
-> - 既存アプリへのRxSwift導入  
+### *2018.4 - 2019.6* 企業B
+> __iOSアプリエンジニア__
+> - [Piyo](http://undefined.com)のプロダクトマネージャー
+> - 既存アプリへのRxSwift導入
 
-### *2019.7 -* ホワイト企業X
-> __CXO__  
-> - 会社を潰した
+### *2019.7 ~* 企業C
+> __CXO__
+> - 既存サービスのアーキテクチャ刷新のPM
 
 ## Education
 
-## Published
-
-## Research
-
 ## Projects
 
+## Publication
+
+## Released
