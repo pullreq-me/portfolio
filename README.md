@@ -1,18 +1,15 @@
-<img src="./resources/thumbnail.png" width="256px">
+<img src="./resources/template/thumbnail.png" width="256px">
 
-# 中村 輝（Akira Nakamura）
-### 株式会社ほげふがのシステムエンジニア
+# 窓辺 猫郎（Nekorou Kadobe）
+某猫株式会社のシステムエンジニア。オフの日は電子工作をしています。猫になってこたつで丸まりたい。
 
-[<img src="./resources/sns_icons/facebook.png" width="32px">](https://www.facebook.com/)
-[<img src="./resources/sns_icons/twitter.png" width="32px">](https://twitter.com/)
-[<img src="./resources/sns_icons/linkedin.png" width="32px">](https://www.linkedin.com/)
-[<img src="./resources/sns_icons/youtube.png" width="32px">](https://www.youtube.com/)
+[<img src="./resources/icons/website.png" width="32px">](https://www.google.co.jp/)
+[<img src="./resources/icons/facebook.png" width="32px">](https://www.facebook.com/)
+[<img src="./resources/icons/twitter.png" width="32px">](https://twitter.com/)
+[<img src="./resources/icons/linkedin.png" width="32px">](https://www.linkedin.com/)
+[<img src="./resources/icons/youtube.png" width="32px">](https://www.youtube.com/)
 
 ***
-
-## Short Bio
-ほげほげまる
-あああ
 
 ## Programming languages
 `Swift` `Javascript` `Java` `PHP` `Ruby` `C` `C#` `C++` `Perl` `Python` `Kotlin` `Haskell` `Go` `R`
@@ -24,13 +21,13 @@
 `Visual Studio Code` `Atom` `Xcode` `Android Studio` `Vim` `Emacs` `Unity` `Xamarin` `Eclipse` `TexShop`
 
 ## Other Skills
-`Illustrator` `Photoshop` `After Effects` `Blender` ``
+`Illustrator` `Photoshop` `After Effects` `Blender` `Fusion 360` `EAGLE`
 
 ## Job Experience
 ### *2017.4 - 2018.3* 企業A
 > __開発アルバイト__
 > - React.jsを用いたWebフロントエンド改修業務
-> - Javaで書かれたAndroidアプリのKotlinへの翻訳業務v
+> - Javaで書かれたAndroidアプリのKotlinへの翻訳業務
 
 ### *2018.4 - 2019.6* 企業B
 > __iOSアプリエンジニア__
@@ -42,9 +39,28 @@
 > - 既存サービスのアーキテクチャ刷新のPM
 
 ## Education
+### *2014.4 - 2018.3*
+> 春日ヌコ日和大学　ぬくぬく学部　日向ぼっこ学科
+### *2018.4 - 2020.3*（修了予定）
+> 春日ヌコ日和大学大学院　ぬくぬく研究科　ゴロゴロ専攻　修士課程
 
 ## Projects
 
-## Publication
+
 
 ## Released
+### Application title
+<img src="./resources/template/application.png" width="64px">
+
+> - Short explain
+> - Line: [http://www.hogehoge.com](http://www.hogehoge.com)
+
+## Publication
+### Book title
+> - Short explain
+> - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
+
+### Paper title
+> - Bibliographic data (authors, year, series, pages, doi, publisher, etc.)
+> - Short explain
+> - PDF: [paper.pdf](./resources/template/paper.pdf)
