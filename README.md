@@ -18,7 +18,7 @@
 `React.js` `Ruby on Rails` `Flutter` `RxSwift`
 
 ## Environment
-`Visual Studio Code` `Atom` `Xcode` `Android Studio` `Vim` `Emacs` `Unity` `Xamarin` `Eclipse` `TexShop`
+`Visual Studio Code` `Atom` `Xcode` `Android Studio` `Vim` `Emacs` `Unity` `Xamarin` `Eclipse` `TexShop` `Docker`
 
 ## Other Skills
 `Illustrator` `Photoshop` `After Effects` `Blender` `Fusion 360` `EAGLE`
@@ -45,22 +45,27 @@
 > 春日ヌコ日和大学大学院　ぬくぬく研究科　ゴロゴロ専攻　修士課程
 
 ## Projects
-
-
+### Project title
+> - Short explain
+> - Contributions
+>   - Your contribution 1
+>   - Your contribution 2
+> - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
 ## Released
 ### Application title
 <img src="./resources/template/application.png" width="64px">
 
-> - Short explain
-> - Line: [http://www.hogehoge.com](http://www.hogehoge.com)
+> - Short explain (what is this?)
+> - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
 ## Publication
 ### Book title
-> - Short explain
+> - Short explain (outline of this book)
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
 ### Paper title
-> - Bibliographic data (authors, year, series, pages, doi, publisher, etc.)
-> - Short explain
+> - Bibliographic data (authors, year, pages, doi, publisher, etc.)
+> - Short explain (abstract of this paper)
 > - PDF: [paper.pdf](./resources/template/paper.pdf)
+> - Movie: [movie.mp4](./resources/template/movie.mp4)
