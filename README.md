@@ -1,4 +1,5 @@
 <img id="thumbnail" src="./resources/template/thumbnail.png" width="256px" />
+
 # 窓辺 猫郎（Nekorou Kadobe）
 某猫株式会社のシステムエンジニア。オフの日は電子工作をしています。猫になってこたつで丸まりたい。
 
