@@ -1,13 +1,13 @@
-<img src="./resources/template/thumbnail.png" width="256px">
+<img id="thumbnail" src="./resources/template/thumbnail.png" width="256px" />
 
 # 窓辺 猫郎（Nekorou Kadobe）
 某猫株式会社のシステムエンジニア。オフの日は電子工作をしています。猫になってこたつで丸まりたい。
 
-[<img src="./resources/icons/website.png" width="32px">](https://www.google.co.jp/)
-[<img src="./resources/icons/facebook.png" width="32px">](https://www.facebook.com/)
-[<img src="./resources/icons/twitter.png" width="32px">](https://twitter.com/)
-[<img src="./resources/icons/linkedin.png" width="32px">](https://www.linkedin.com/)
-[<img src="./resources/icons/youtube.png" width="32px">](https://www.youtube.com/)
+[<img id="website" src="./resources/icons/website.png" width="32px">](https://www.google.co.jp/)
+[<img id="facebook" src="./resources/icons/facebook.png" width="32px">](https://www.facebook.com/)
+[<img id="twitter" src="./resources/icons/twitter.png" width="32px">](https://twitter.com/)
+[<img id="linkedin" src="./resources/icons/linkedin.png" width="32px">](https://www.linkedin.com/)
+[<img id="youtube" src="./resources/icons/youtube.png" width="32px">](https://www.youtube.com/)
 
 ***
 
