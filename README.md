@@ -28,20 +28,20 @@
 
 ## Job Experience
 ### *2017.4 - 2018.3*
-> **[企業A]**  
-> _開発アルバイト_
+**企業A**
+> - *開発アルバイト*
 > - React.jsを用いたWebフロントエンド改修業務
 > - Javaで書かれたAndroidアプリのKotlinへの翻訳業務
 
 ### *2018.4 - 2019.6*
-> **[企業B]**  
-> *iOSアプリエンジニア*
+**企業B**
+> - *iOSアプリエンジニア*
 > - [Piyo](http://undefined.com)のプロダクトマネージャー
 > - 既存アプリへのRxSwift導入
 
 ### *2019.7 ~* 
-> **[企業C]**  
-> *CXO*
+**企業C**
+> - *CXO*
 > - 既存サービスのアーキテクチャ刷新のPM
 
 ## Education
@@ -61,6 +61,7 @@
 ## Distributions
 ### Application title
 <img src="./resources/template/application.png" width="64px">
+
 > - Short explain (what is this?)
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
