@@ -61,6 +61,7 @@
 ## Distributions
 ### Application title
 <img src="./resources/template/application.png" width="64px">
+
 > - Short explain (what is this?)
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
