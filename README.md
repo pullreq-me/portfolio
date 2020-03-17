@@ -1,5 +1,4 @@
 <img id="thumbnail" src="./resources/template/thumbnail.png" width="256px" />
-
 # 窓辺 猫郎（Nekorou Kadobe）
 某猫株式会社のシステムエンジニア。オフの日は電子工作をしています。猫になってこたつで丸まりたい。
 
@@ -28,19 +27,19 @@
 
 ## Job Experience
 ### *2017.4 - 2018.3*
-> **[企業A]**
-> - _開発アルバイト_
+> **企業A**
+> - *開発アルバイト*
 > - React.jsを用いたWebフロントエンド改修業務
 > - Javaで書かれたAndroidアプリのKotlinへの翻訳業務
 
 ### *2018.4 - 2019.6*
-> **[企業B]**
+> **企業B**
 > - *iOSアプリエンジニア*
 > - [Piyo](http://undefined.com)のプロダクトマネージャー
 > - 既存アプリへのRxSwift導入
 
 ### *2019.7 ~* 
-> **[企業C]**
+> **企業C**
 > - *CXO*
 > - 既存サービスのアーキテクチャ刷新のPM
 
