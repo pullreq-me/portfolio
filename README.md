@@ -11,31 +11,37 @@
 
 ***
 
-## Programming languages
+## Programming Languages
 `Swift` `Javascript` `Java` `PHP` `Ruby` `C` `C#` `C++` `Perl` `Python` `Kotlin` `Haskell` `Go` `R`
 
 ## Frameworks / Libraries
 `React.js` `Ruby on Rails` `Flutter` `RxSwift`
 
-## Environment
+## Environments
 `Visual Studio Code` `Atom` `Xcode` `Android Studio` `Vim` `Emacs` `Unity` `Xamarin` `Eclipse` `TexShop` `Docker`
 
 ## Other Skills
 `Illustrator` `Photoshop` `After Effects` `Blender` `Fusion 360` `EAGLE`
 
+## Qualifications
+`アマチュア無線` `医師免許` `博士（工学）`
+
 ## Job Experience
-### *2017.4 - 2018.3* 企業A
-> __開発アルバイト__
+### *2017.4 - 2018.3*
+> **[企業A]**
+> _開発アルバイト_
 > - React.jsを用いたWebフロントエンド改修業務
 > - Javaで書かれたAndroidアプリのKotlinへの翻訳業務
 
-### *2018.4 - 2019.6* 企業B
-> __iOSアプリエンジニア__
+### *2018.4 - 2019.6*
+> **[企業B]**
+> *iOSアプリエンジニア*
 > - [Piyo](http://undefined.com)のプロダクトマネージャー
 > - 既存アプリへのRxSwift導入
 
-### *2019.7 ~* 企業C
-> __CXO__
+### *2019.7 ~* 
+> **[企業C]**
+> *CXO*
 > - 既存サービスのアーキテクチャ刷新のPM
 
 ## Education
@@ -52,14 +58,13 @@
 >   - Your contribution 2
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
-## Released
+## Distributions
 ### Application title
 <img src="./resources/template/application.png" width="64px">
-
 > - Short explain (what is this?)
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
 
-## Publication
+## Publications
 ### Book title
 > - Short explain (outline of this book)
 > - Link: [http://www.hogehoge.com](http://www.hogehoge.com)
